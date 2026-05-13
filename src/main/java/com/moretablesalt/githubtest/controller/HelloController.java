@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String sayHello() {
-        return "Hello Dark mode";
+        return "Hello Light mode";
     }
 }
